@@ -66,7 +66,7 @@ namespace ConsoleApplication1
                 //    flag1 = 1;
                 //    break;
                 
-            //}
+            //}??
             if (len == 0)
             {
                 count += 1;
